@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Free",
+    "price": "Rp 0,-",
+    "color": "bg-purple-500",
+    "features": [
+      "1000 benih/hari",
+      "Kecepatan hitung normal",
+      "Rekam riwayat 1 hari"
+    ]
+  },
+  {
+    "title": "Premium",
+    "price": "Rp 500.000,-",
+    "color": "bg-purple-700",
+    "features": [
+      "Perhitungan tak terbatas",
+      "Kecepatan hitung cepat",
+      "Rekam riwayat 30 hari"
+    ]
+  },
+  {
+    "title": "Enterprise",
+    "price": "Hubungi kami",
+    "color": "bg-purple-900",
+    "features": [
+      "Perhitungan tak terbatas",
+      "Kecepatan hitung cepat",
+      "Layanan prioritas",
+      "Dasbor analisa",
+      "Rekam riwayat terkostumisasi"
+    ]
+  }
+]

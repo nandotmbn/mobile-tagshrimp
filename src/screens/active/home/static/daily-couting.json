@@ -1,0 +1,27 @@
+[
+  {
+    "time": "07.00 WIB",
+    "counter": 12,
+    "calculatedShrimpTotal": 2045
+  },
+  {
+    "time": "09.20 WIB",
+    "counter": 20,
+    "calculatedShrimpTotal": 3105
+  },
+  {
+    "time": "11.10 WIB",
+    "counter": 5,
+    "calculatedShrimpTotal": 1213
+  },
+  {
+    "time": "14.44 WIB",
+    "counter": 10,
+    "calculatedShrimpTotal": 2126
+  },
+  {
+    "time": "16.23 WIB",
+    "counter": 17,
+    "calculatedShrimpTotal": 2653
+  }
+]

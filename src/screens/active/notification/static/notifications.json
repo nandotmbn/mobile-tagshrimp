@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Laporan harian",
+    "date": "16 November 2022",
+    "color": "bg-purple-500",
+    "data": {
+      "session": 12,
+      "totalCounting": 13505
+    }
+  },
+  {
+    "title": "Pembelian plan",
+    "date": "18 November 2022",
+    "color": "bg-yellow-500",
+    "type": "Enterprise"
+  },
+  {
+    "title": "Laporan harian",
+    "date": "17 November 2022",
+    "color": "bg-purple-500",
+    "data": {
+      "session": 10,
+      "totalCounting": 10479
+    }
+  },
+  {
+    "title": "Laporan mingguan",
+    "date": "19 November 2022",
+    "color": "bg-orange-600",
+    "data": {
+      "session": 45,
+      "totalCounting": 58013
+    }
+  },
+]
